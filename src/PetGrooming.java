@@ -31,5 +31,6 @@ public class PetGrooming {
         System.out.println("Hewan   : " + namaHewan);
         System.out.println("Layanan : " + jenisLayanan);
         System.out.println("Total   : Rp" + harga);
+        System.out.println("Terimakasih");
     }
 }
